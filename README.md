@@ -26,7 +26,7 @@
   <div>
     <img src="https://github.com/hosseinimh/hosseinimh/blob/main/resume.JPG" />
     <p>
-    <a href="https://github.com/hosseinimh/hosseinimh/blob/main/Mahmoud%20Hosseini.pdf">
+    <a href="https://github.com/hosseinimh/hosseinimh/raw/main/Mahmoud%20Hosseini.pdf">
     Download resume
     </a>
     </p>
